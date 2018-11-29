@@ -9,6 +9,9 @@ There are types that counts from 0-9 or 0-5 and others that count from A-Z.
 
 In the provided Demo classes you will find more info on how to use them.
 
+The Spinner controls are the same controls but one is based on Canvas where the other is based on ImageView.
+
+
 Donations are welcome at [Paypal](https://paypal.me/hans0l0)
 
 ## Overview
